@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Pizza Towers</string>
+    <string name="address">Address: </string>
+    <string name="addressInfo">Altıntepe Mahallesi, Bağdat Cd. 101/B, 34840 Maltepe/İstanbul</string>
+    <string name="hours">Hours:</string>
+    <string name="hoursInfo">
+Monday	11AM–12PM
+Tuesday	11AM–12PM
+Wednesday	11AM–12PM
+Thursday	11AM–12PM
+Friday	11AM–12PM
+Saturday	11AM–12PM
+Sunday	11AM–12PM</string>
+    <string name="phone">Phone:</string>
+    <string name="phoneInfo">+90 216 489 89 99</string>
+    <string name="bonappetit">BON APPETIT</string>
+
+</resources>
